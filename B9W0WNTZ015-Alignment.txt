@@ -1,0 +1,1931 @@
+RID: B9W0WNTZ015	
+Job Title:Nucleotide Sequence 				
+Program: BLASTN 
+Query: None ID: lcl|Query_413751(dna) Length: 66
+Database: core_nt Core nucleotide BLAST database
+	
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Cloning vector pTpTalen-L, complete sequence                      Cloning vect... NA              2896789    122    122   100%  3e-24 100.00 13435      MW805353.1       
+Porcine epidemic diarrhea virus isolate TC-China/2020, complet... Porcine epid... NA              28295      122    122   100%  3e-24 100.00 28100      OP326239.1       
+Vector pENTR1A-Ins2KUMA-3Flag insulin2 Q104del (Kuma) and 3Fla... Vector pENTR... NA              2827094    122    122   100%  3e-24 100.00 3447       MT671462.1       
+Synthetic construct Nesp3mRFP1Flag gene, complete cds             synthetic co... NA              32630      122    122   100%  3e-24 100.00 3570       KX176870.1       
+Cloning vector pTAP-AFAP, complete sequence                       Cloning vect... NA              3031341    122    122   100%  3e-24 100.00 6312       OP292671.1       
+Vector pENTR1A-3Flag-WFS1-W837X, complete sequence                Vector pENTR... NA              3105859    122    122   100%  3e-24 100.00 5112       OQ262951.1       
+Vector pAd/CMV/V5-DEST-3Flag-WFS1, complete sequence              Vector pAd/C... NA              3105845    122    122   100%  3e-24 100.00 37354      OQ427863.1       
+Synthetic construct clone 93 single-chain variable fragment...    synthetic co... NA              32630      122    122   100%  3e-24 100.00 1566       MT635026.1       
+Synthetic construct clone 101 single-chain variable fragment...   synthetic co... NA              32630      122    122   100%  3e-24 100.00 1566       MT635030.1       
+Vector Puro-iDEST-3xFLAG-hWFS1-WT -IRES2-mCherry, complete...     Vector Puro-... NA              3105844    122    122   100%  3e-24 100.00 9917       OQ427855.1       
+Cloning vector pAc5.1B_FN_su(ur), complete sequence               Cloning vect... NA              1943577    122    122   100%  3e-24 100.00 8245       KX357892.1       
+Synthetic construct clone ATA1.458.5 anti-tau and anti-alpha...   synthetic co... NA              32630      122    122   100%  3e-24 100.00 1557       OR437343.1       
+Cloning vector pBacN-puro-IE2-Venus-FLAG3-DEST DNA, complete...   Cloning vect... NA              1572327    122    122   100%  3e-24 100.00 12301      LC010247.1       
+Cloning vector p3FsHMGB1A-wt DNA, complete sequence               Cloning vect... NA              1451150    122    122   100%  3e-24 100.00 7527       AB902850.1       
+Vector pAd/CMV/V5-DEST-3Flag-WFS1-Y652X, complete sequence        Vector pAd/C... NA              3105849    122    122   100%  3e-24 100.00 37354      OQ427856.1       
+Synthetic construct NES-CTNNB1-L7Ae-FLAG gene, complete cds       synthetic co... NA              32630      122    122   100%  3e-24 100.00 6688       MW789363.1       
+Protein trap vector Mi[Hto-WP] transposon Minos, complete...      Protein trap... NA              1053474    122    122   100%  3e-24 100.00 1983       JN049642.1       
+Synthetic construct clone ATA1.458.3 anti-tau and anti-alpha...   synthetic co... NA              32630      122    122   100%  3e-24 100.00 1557       OR437344.1       
+Tetracycline-inducible expression vector p9xtetO-IE2mini(L)-DE... Tetracycline... NA              1170628    122    122   100%  3e-24 100.00 5726       AB711111.1       
+Synthetic construct clone 102 single-chain variable fragment...   synthetic co... NA              32630      122    122   100%  3e-24 100.00 1566       MT635031.1       
+Synthetic construct clone 89 single-chain variable fragment...    synthetic co... NA              32630      122    122   100%  3e-24 100.00 1566       MT635023.1       
+Vector pAd/CMV/V5-DEST-3Flag-WFS1-W837X, complete sequence        Vector pAd/C... NA              3105848    122    122   100%  3e-24 100.00 37354      OQ427858.1       
+Vector pENTR1A-Ins2WT-3Flag insulin2 and 3Flag genes, partial...  Vector pENTR... NA              2827096    122    122   100%  3e-24 100.00 3450       MT671461.1       
+Synthetic construct clone KA1 anti-SARS-CoV-2 nanobody gene,...   synthetic co... NA              32630      122    122   100%  3e-24 100.00 1149       MZ133804.1       
+Synthetic construct NES-CTNNB1-L7Ae-FLAG-hcvS-TAF1-TBP-DHFRd...   synthetic co... NA              32630      122    122   100%  3e-24 100.00 7909       MW789365.1       
+Synthetic construct clone WA2.22 WA2.22 Fc fusion gene, partia... synthetic co... NA              32630      122    122   100%  3e-24 100.00 1191       OR094900.1       
+Synthetic construct clone KC3.ep5 anti-SARS-CoV-2 nanobody gen... synthetic co... NA              32630      122    122   100%  3e-24 100.00 1149       MZ133809.1       
+Synthetic construct 3xFlag::SNAP25 gene, complete cds             synthetic co... NA              32630      122    122   100%  3e-24 100.00 6235       MN658770.1       
+Synthetic construct clone ATA1 anti-tau and anti-alpha synucle... synthetic co... NA              32630      122    122   100%  3e-24 100.00 1557       OR437341.1       
+Synthetic construct clone KC3 anti-SARS-CoV-2 nanobody gene,...   synthetic co... NA              32630      122    122   100%  3e-24 100.00 1146       MZ133805.1       
+Synthetic construct clone KC3.ep3 anti-SARS-CoV-2 nanobody gen... synthetic co... NA              32630      122    122   100%  3e-24 100.00 1149       MZ133808.1       
+Synthetic construct clone WA2.21 WA2.21 Fc fusion gene, partia... synthetic co... NA              32630      122    122   100%  3e-24 100.00 1191       OR094901.1       
+Cloning vector pCS2TAL3-DD, complete sequence                     Cloning vect... NA              1215326    122    122   100%  3e-24 100.00 5768       JX051360.1       
+Synthetic construct QF2::V5::SNAP25::syntaxin gene, complete cds  synthetic co... NA              32630      122    122   100%  3e-24 100.00 7741       MN658771.1       
+Synthetic construct clone KA1.ep1 anti-SARS-CoV-2 nanobody gen... synthetic co... NA              32630      122    122   100%  3e-24 100.00 1149       MZ133807.1       
+Cloning vector pTAP, complete sequence                            Cloning vect... NA              3031340    122    122   100%  3e-24 100.00 5388       OP292672.1       
+Vector pENTR1A-3Flag-WFS1-Y652X, complete sequence                Vector pENTR... NA              3105860    122    122   100%  3e-24 100.00 5112       OQ262953.1       
+Synthetic construct clone 91 single-chain variable fragment...    synthetic co... NA              32630      122    122   100%  3e-24 100.00 1566       MT635024.1       
+Eukaryotic synthetic construct gene for BAG6 synthetic protein... eukaryotic s... NA              111789     122    122   100%  3e-24 100.00 3993       LC773211.1       
+Synthetic construct NES-L7Ae-FLAG-hcvS-TAF1-TBP-DHFRd gene,...    synthetic co... NA              32630      122    122   100%  3e-24 100.00 5554       MW789364.1       
+Synthetic construct SUN1mRFP1Flag gene, complete cds              synthetic co... NA              32630      122    122   100%  3e-24 100.00 3581       KX176869.1       
+Synthetic construct clone 88 single-chain variable fragment...    synthetic co... NA              32630      122    122   100%  3e-24 100.00 1566       MT635022.1       
+Cloning vector p2U6-CAG-Cas9-p2A-puro, complete sequence          Cloning vect... NA              2506196    122    122   100%  3e-24 100.00 9989       MK318530.1       
+Synthetic construct clone UAS-BoNT-A other-genetic sequence       synthetic co... NA              32630      122    122   100%  3e-24 100.00 10099      KR260972.1       
+Synthetic construct clone UAS-BoNT-G other-genetic sequence       synthetic co... NA              32630      122    122   100%  3e-24 100.00 10081      KR260975.1       
+Synthetic construct 3xFlag-CTR9 gene, partial cds                 synthetic co... NA              32630      122    122   100%  3e-24 100.00 268        MZ018224.1       
+Synthetic construct clone 98 single-chain variable fragment...    synthetic co... NA              32630      122    122   100%  3e-24 100.00 1566       MT635029.1       
+Vector pAAV9-tnnt2 Glo1 Kurt Prins, complete sequence             Vector pAAV9... NA              2983413    122    122   100%  3e-24 100.00 4383       OP267555.1       
+Synthetic construct clone UAS-BoNT-B other-genetic sequence       synthetic co... NA              32630      122    122   100%  3e-24 100.00 10360      KR260973.1       
+Synthetic construct clone 92 single-chain variable fragment...    synthetic co... NA              32630      122    122   100%  3e-24 100.00 1566       MT635025.1       
+Vector pENTR1A-3Flag-WFS1, complete sequence                      Vector pENTR... NA              3105857    122    122   100%  3e-24 100.00 5112       OQ262950.1       
+Vector pAd/CMV/V5-DEST-3Flag-WFS1-P724L, complete sequence        Vector pAd/C... NA              3105847    122    122   100%  3e-24 100.00 37354      OQ427861.1       
+Synthetic construct CatD_ZFN2 gene, complete cds                  synthetic co... NA              32630      122    122   100%  3e-24 100.00 1158       KY862008.1       
+Synthetic construct clone 97A3 anti-Abeta fibril single-chain...  synthetic co... NA              32630      122    122   100%  3e-24 100.00 1566       MW202274.1       
+Vector pAd/CMV/V5-DEST-3Flag-WFS1-IRES2-mCherry, complete...      Vector pAd/C... NA              3105846    122    122   100%  3e-24 100.00 38674      OQ427867.1       
+Eukaryotic synthetic construct gene for UBL4A synthetic protei... eukaryotic s... NA              111789     122    122   100%  3e-24 100.00 627        LC773210.1       
+Synthetic construct NLuc-3xFLAG gene, complete cds                synthetic co... NA              32630      122    122   100%  3e-24 100.00 669        PQ613858.1       
+Synthetic construct clone WA2.7 WA2.7 Fc fusion gene, partial cds synthetic co... NA              32630      122    122   100%  3e-24 100.00 1191       OR094902.1       
+Synthetic construct clone UAS-BoNT-C other-genetic sequence       synthetic co... NA              32630      122    122   100%  3e-24 100.00 10102      KR260974.1       
+Synthetic construct clone 95 single-chain variable fragment...    synthetic co... NA              32630      122    122   100%  3e-24 100.00 1566       MT635027.1       
+Synthetic construct clone ATA1.459.3 anti-tau and anti-alpha...   synthetic co... NA              32630      122    122   100%  3e-24 100.00 1557       OR437342.1       
+Cloning vector pCIneo-3xFLAG-SLBP, complete sequence              Cloning vect... NA              2779226    122    122   100%  3e-24 100.00 6411       MT966999.1       
+Synthetic construct clone 97 single-chain variable fragment...    synthetic co... NA              32630      122    122   100%  3e-24 100.00 1566       MT635028.1       
+Vector pENTR1A-3Flag-WFS1-IRES2-mCherry, complete sequence        Vector pENTR... NA              3062755    122    122   100%  3e-24 100.00 6432       OQ238874.1       
+Vector pENTR1A-3Flag-WFS1-P724L, complete sequence                Vector pENTR... NA              3105858    122    122   100%  3e-24 100.00 5112       OQ262952.1       
+Synthetic construct clone pEnEOimsfGFP-stag-F3SG, complete...     synthetic co... NA              32630      119    119   97%   4e-23 100.00 6364       OP013025.1       
+Synthetic construct clone pEnEOimsfGFP-tagRFP-T-F3SG, complete... synthetic co... NA              32630      119    119   97%   4e-23 100.00 6364       OP013024.1       
+Cloning vector pEnEOimCherryF3SGThsp, complete sequence           Cloning vect... NA              1424654    119    119   97%   4e-23 100.00 5580       KF537341.1       
+Synthetic construct clone pEnEOimsfGFP-FRMVQ-F3SG, complete...    synthetic co... NA              32630      119    119   97%   4e-23 100.00 6328       OP013018.1       
+Synthetic construct clone pEnEOimsfGFP-mOrange2-F3SG, complete... synthetic co... NA              32630      119    119   97%   4e-23 100.00 6340       OP013020.1       
+Cloning vector pEnEOmCherryF3SG, complete sequence                Cloning vect... NA              1424655    119    119   97%   4e-23 100.00 4729       KF537342.1       
+Synthetic construct clone pEnEOimsfGFP-mScarlet-F3SG, complete... synthetic co... NA              32630      119    119   97%   4e-23 100.00 6328       OP013022.1       
+Synthetic construct clone pEnEOimsfGFP-mStrawberry-F3SG,...       synthetic co... NA              32630      119    119   97%   4e-23 100.00 6340       OP013023.1       
+Synthetic construct clone pEnEOimsfGFP-mRuby3-F3SG, complete...   synthetic co... NA              32630      119    119   97%   4e-23 100.00 6343       OP013021.1       
+Synthetic construct clone pEnEOimsfGFP-mCherry-F3SG, complete...  synthetic co... NA              32630      119    119   97%   4e-23 100.00 6340       OP013019.1       
+Binary vector pMpGWB411 DNA, complete sequence                    Binary vecto... NA              1662989    117    117   100%  1e-22 98.48  11915      LC057564.1       
+Synthetic construct strain...                                     synthetic co... NA              32630      117    117   100%  1e-22 98.48  2888       OK491808.1       
+Synthetic construct strain...                                     synthetic co... NA              32630      117    117   100%  1e-22 98.48  2594       OK491807.1       
+Synthetic construct NSP1-FL gene, complete cds                    synthetic co... NA              32630      117    117   100%  1e-22 98.48  2099       MW762698.1       
+Neurospora expression vector pCCG::C-Gly::3xFLAG, complete...     Neurospora e... NA              591004     117    117   100%  1e-22 98.48  8049       FJ457001.1       
+Neurospora expression vector pCCG::C-3xFLAG, complete sequence    Neurospora e... NA              591003     117    117   100%  1e-22 98.48  8019       FJ456996.1       
+Mutant Rotavirus A strain...                                      Rotavirus A     NA              28875      117    117   100%  1e-22 98.48  1627       PP112344.1       
+Synthetic construct NSP1-C54A-UG gene, complete cds               synthetic co... NA              32630      117    117   100%  1e-22 98.48  2096       MW762703.1       
+Synthetic construct clone...                                      synthetic co... NA              32630      117    117   100%  1e-22 98.48  1711       OR036744.1       
+Synthetic construct NSP3-P2A-3xFL-mRuby gene, complete cds        synthetic co... NA              32630      117    117   100%  1e-22 98.48  1951       MK851037.1       
+Binary vector pMpGWB209 DNA, complete sequence                    Binary vecto... NA              1662914    117    117   100%  1e-22 98.48  10793      LC057488.1       
+Synthetic construct NSP3-P2A-3xFL-BFP gene, complete cds          synthetic co... NA              32630      117    117   100%  1e-22 98.48  1942       MK851039.1       
+Synthetic construct strain...                                     synthetic co... NA              32630      117    117   100%  1e-22 98.48  2042       OK491806.1       
+Binary vector pMpGWB311 DNA, complete sequence                    Binary vecto... NA              1662952    117    117   100%  1e-22 98.48  13083      LC057527.1       
+Synthetic construct NSP1-C63A-UG gene, complete cds               synthetic co... NA              32630      117    117   100%  1e-22 98.48  2096       MW762706.1       
+Synthetic construct NSP1-C45A-UG gene, complete cds               synthetic co... NA              32630      117    117   100%  1e-22 98.48  2096       MW762702.1       
+Synthetic construct NSP3-3xFL-mRuby-P2A-3xFL-UnaG gene, comple... synthetic co... NA              32630      117    234   100%  1e-22 98.48  2437       MN184671.1       
+Synthetic construct NSP1-C57A-UG gene, complete cds               synthetic co... NA              32630      117    117   100%  1e-22 98.48  2096       MW762704.1       
+Synthetic construct isolate...                                    synthetic co... NA              32630      117    117   100%  1e-22 98.48  2303       MW353715.1       
+Rhodopseudomonas palustris TIE-1 chromosome, complete genome      Rhodopseudom... NA              395960     117    117   100%  1e-22 98.48  5744041    CP001096.1       
+Cloning vector 3XFlag-SMXL6, complete sequence                    Cloning vect... NA              2698390    117    117   100%  1e-22 98.48  7307       MN728545.1       
+Synthetic construct clone...                                      synthetic co... NA              32630      117    117   100%  1e-22 98.48  2830       MW072295.1       
+Binary vector pMpGWB410 DNA, complete sequence                    Binary vecto... NA              1662988    117    117   100%  1e-22 98.48  12793      LC057563.1       
+Binary vector pMpGWB309 DNA, complete sequence                    Binary vecto... NA              1662950    117    117   100%  1e-22 98.48  12227      LC057525.1       
+Cloning vector 3XFlag-SMXL6-no-EAR, complete sequence             Cloning vect... NA              2698391    117    117   100%  1e-22 98.48  7289       MN780594.1       
+
+Alignments:
+
+>Cloning vector pTpTalen-L, complete sequence
+Sequence ID: MW805353.1 Length: 13435
+Range 1: 1321 to 1386
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1321  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  1380
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1381  GACAAG  1386
+
+
+
+
+>Porcine epidemic diarrhea virus isolate TC-China/2020, complete genome
+Sequence ID: OP326239.1 Length: 28100
+Range 1: 20694 to 20759
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1      GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  20694  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  20753
+
+Query  61     GACAAG  66
+              ||||||
+Sbjct  20754  GACAAG  20759
+
+
+
+
+>Vector pENTR1A-Ins2KUMA-3Flag insulin2 Q104del (Kuma) and 3Flag genes, partial cds; and mCherry gene, complete cds
+Sequence ID: MT671462.1 Length: 3447
+Range 1: 892 to 957
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1    GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  892  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  951
+
+Query  61   GACAAG  66
+            ||||||
+Sbjct  952  GACAAG  957
+
+
+
+
+>Synthetic construct Nesp3mRFP1Flag gene, complete cds
+Sequence ID: KX176870.1 Length: 3570
+Range 1: 3481 to 3546
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3481  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  3540
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  3541  GACAAG  3546
+
+
+
+
+>Cloning vector pTAP-AFAP, complete sequence
+Sequence ID: OP292671.1 Length: 6312
+Range 1: 2055 to 2120
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2055  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  2114
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  2115  GACAAG  2120
+
+
+
+
+>Vector pENTR1A-3Flag-WFS1-W837X, complete sequence
+Sequence ID: OQ262951.1 Length: 5112
+Range 1: 505 to 570
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1    GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  505  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  564
+
+Query  61   GACAAG  66
+            ||||||
+Sbjct  565  GACAAG  570
+
+
+
+
+>Vector pAd/CMV/V5-DEST-3Flag-WFS1, complete sequence
+Sequence ID: OQ427863.1 Length: 37354
+Range 1: 1479 to 1544
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1479  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  1538
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1539  GACAAG  1544
+
+
+
+
+>Synthetic construct clone 93 single-chain variable fragment antibody gene, partial cds
+Sequence ID: MT635026.1 Length: 1566
+Range 1: 1501 to 1566
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1501  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  1560
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1561  GACAAG  1566
+
+
+
+
+>Synthetic construct clone 101 single-chain variable fragment antibody gene, partial cds
+Sequence ID: MT635030.1 Length: 1566
+Range 1: 1501 to 1566
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1501  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  1560
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1561  GACAAG  1566
+
+
+
+
+>Vector Puro-iDEST-3xFLAG-hWFS1-WT -IRES2-mCherry, complete sequence
+Sequence ID: OQ427855.1 Length: 9917
+Range 1: 6171 to 6236
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Minus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6236  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  6177
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  6176  GACAAG  6171
+
+
+
+
+>Cloning vector pAc5.1B_FN_su(ur), complete sequence
+Sequence ID: KX357892.1 Length: 8245
+Range 1: 5566 to 5631
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  5566  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  5625
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  5626  GACAAG  5631
+
+
+
+
+>Synthetic construct clone ATA1.458.5 anti-tau and anti-alpha synuclein scFv-Fc gene, partial cds
+Sequence ID: OR437343.1 Length: 1557
+Range 1: 1492 to 1557
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1492  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  1551
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1552  GACAAG  1557
+
+
+
+
+>Cloning vector pBacN-puro-IE2-Venus-FLAG3-DEST DNA, complete sequence
+Sequence ID: LC010247.1 Length: 12301
+Range 1: 7568 to 7633
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7568  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  7627
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  7628  GACAAG  7633
+
+
+
+
+>Cloning vector p3FsHMGB1A-wt DNA, complete sequence
+Sequence ID: AB902850.1 Length: 7527
+Range 1: 2397 to 2462
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2397  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  2456
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  2457  GACAAG  2462
+
+
+
+
+>Vector pAd/CMV/V5-DEST-3Flag-WFS1-Y652X, complete sequence
+Sequence ID: OQ427856.1 Length: 37354
+Range 1: 1479 to 1544
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1479  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  1538
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1539  GACAAG  1544
+
+
+
+
+>Synthetic construct NES-CTNNB1-L7Ae-FLAG gene, complete cds
+Sequence ID: MW789363.1 Length: 6688
+Range 1: 3382 to 3447
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3382  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  3441
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  3442  GACAAG  3447
+
+
+
+
+>Protein trap vector Mi[Hto-WP] transposon Minos, complete sequence
+Sequence ID: JN049642.1 Length: 1983
+Range 1: 884 to 949
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1    GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  884  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  943
+
+Query  61   GACAAG  66
+            ||||||
+Sbjct  944  GACAAG  949
+
+
+
+
+>Synthetic construct clone ATA1.458.3 anti-tau and anti-alpha synuclein scFv-Fc gene, partial cds
+Sequence ID: OR437344.1 Length: 1557
+Range 1: 1492 to 1557
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1492  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  1551
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1552  GACAAG  1557
+
+
+
+
+>Tetracycline-inducible expression vector p9xtetO-IE2mini(L)-DEST DNA, complete sequence
+Sequence ID: AB711111.1 Length: 5726
+Range 1: 3422 to 3487
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3422  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  3481
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  3482  GACAAG  3487
+
+
+
+
+>Synthetic construct clone 102 single-chain variable fragment antibody gene, partial cds
+Sequence ID: MT635031.1 Length: 1566
+Range 1: 1501 to 1566
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1501  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  1560
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1561  GACAAG  1566
+
+
+
+
+>Synthetic construct clone 89 single-chain variable fragment antibody gene, partial cds
+Sequence ID: MT635023.1 Length: 1566
+Range 1: 1501 to 1566
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1501  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  1560
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1561  GACAAG  1566
+
+
+
+
+>Vector pAd/CMV/V5-DEST-3Flag-WFS1-W837X, complete sequence
+Sequence ID: OQ427858.1 Length: 37354
+Range 1: 1479 to 1544
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1479  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  1538
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1539  GACAAG  1544
+
+
+
+
+>Vector pENTR1A-Ins2WT-3Flag insulin2 and 3Flag genes, partial cds; and mCherry gene, complete cds
+Sequence ID: MT671461.1 Length: 3450
+Range 1: 895 to 960
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1    GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  895  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  954
+
+Query  61   GACAAG  66
+            ||||||
+Sbjct  955  GACAAG  960
+
+
+
+
+>Synthetic construct clone KA1 anti-SARS-CoV-2 nanobody gene, partial cds
+Sequence ID: MZ133804.1 Length: 1149
+Range 1: 1084 to 1149
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1084  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  1143
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1144  GACAAG  1149
+
+
+
+
+>Synthetic construct NES-CTNNB1-L7Ae-FLAG-hcvS-TAF1-TBP-DHFRd gene, complete cds
+Sequence ID: MW789365.1 Length: 7909
+Range 1: 3376 to 3441
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3376  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  3435
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  3436  GACAAG  3441
+
+
+
+
+>Synthetic construct clone WA2.22 WA2.22 Fc fusion gene, partial cds
+Sequence ID: OR094900.1 Length: 1191
+Range 1: 1126 to 1191
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1126  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  1185
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1186  GACAAG  1191
+
+
+
+
+>Synthetic construct clone KC3.ep5 anti-SARS-CoV-2 nanobody gene, partial cds
+Sequence ID: MZ133809.1 Length: 1149
+Range 1: 1084 to 1149
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1084  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  1143
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1144  GACAAG  1149
+
+
+
+
+>Synthetic construct 3xFlag::SNAP25 gene, complete cds
+Sequence ID: MN658770.1 Length: 6235
+Range 1: 2767 to 2832
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2767  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  2826
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  2827  GACAAG  2832
+
+
+
+
+>Synthetic construct clone ATA1 anti-tau and anti-alpha synuclein scFv-Fc gene, partial cds
+Sequence ID: OR437341.1 Length: 1557
+Range 1: 1492 to 1557
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1492  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  1551
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1552  GACAAG  1557
+
+
+
+
+>Synthetic construct clone KC3 anti-SARS-CoV-2 nanobody gene, partial cds
+Sequence ID: MZ133805.1 Length: 1146
+Range 1: 1081 to 1146
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1081  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  1140
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1141  GACAAG  1146
+
+
+
+
+>Synthetic construct clone KC3.ep3 anti-SARS-CoV-2 nanobody gene, partial cds
+Sequence ID: MZ133808.1 Length: 1149
+Range 1: 1084 to 1149
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1084  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  1143
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1144  GACAAG  1149
+
+
+
+
+>Synthetic construct clone WA2.21 WA2.21 Fc fusion gene, partial cds
+Sequence ID: OR094901.1 Length: 1191
+Range 1: 1126 to 1191
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1126  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  1185
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1186  GACAAG  1191
+
+
+
+
+>Cloning vector pCS2TAL3-DD, complete sequence
+Sequence ID: JX051360.1 Length: 5768
+Range 1: 118 to 183
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1    GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  118  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  177
+
+Query  61   GACAAG  66
+            ||||||
+Sbjct  178  GACAAG  183
+
+
+
+
+>Synthetic construct QF2::V5::SNAP25::syntaxin gene, complete cds
+Sequence ID: MN658771.1 Length: 7741
+Range 1: 2767 to 2832
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2767  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  2826
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  2827  GACAAG  2832
+
+
+
+
+>Synthetic construct clone KA1.ep1 anti-SARS-CoV-2 nanobody gene, partial cds
+Sequence ID: MZ133807.1 Length: 1149
+Range 1: 1084 to 1149
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1084  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  1143
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1144  GACAAG  1149
+
+
+
+
+>Cloning vector pTAP, complete sequence
+Sequence ID: OP292672.1 Length: 5388
+Range 1: 1131 to 1196
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1131  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  1190
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1191  GACAAG  1196
+
+
+
+
+>Vector pENTR1A-3Flag-WFS1-Y652X, complete sequence
+Sequence ID: OQ262953.1 Length: 5112
+Range 1: 505 to 570
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1    GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  505  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  564
+
+Query  61   GACAAG  66
+            ||||||
+Sbjct  565  GACAAG  570
+
+
+
+
+>Synthetic construct clone 91 single-chain variable fragment antibody gene, partial cds
+Sequence ID: MT635024.1 Length: 1566
+Range 1: 1501 to 1566
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1501  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  1560
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1561  GACAAG  1566
+
+
+
+
+>Eukaryotic synthetic construct gene for BAG6 synthetic protein, complete cds
+Sequence ID: LC773211.1 Length: 3993
+Range 1: 4 to 69
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1   GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4   GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  63
+
+Query  61  GACAAG  66
+           ||||||
+Sbjct  64  GACAAG  69
+
+
+
+
+>Synthetic construct NES-L7Ae-FLAG-hcvS-TAF1-TBP-DHFRd gene, complete cds
+Sequence ID: MW789364.1 Length: 5554
+Range 1: 1021 to 1086
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1021  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  1080
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1081  GACAAG  1086
+
+
+
+
+>Synthetic construct SUN1mRFP1Flag gene, complete cds
+Sequence ID: KX176869.1 Length: 3581
+Range 1: 3498 to 3563
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3498  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  3557
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  3558  GACAAG  3563
+
+
+
+
+>Synthetic construct clone 88 single-chain variable fragment antibody gene, partial cds
+Sequence ID: MT635022.1 Length: 1566
+Range 1: 1501 to 1566
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1501  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  1560
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1561  GACAAG  1566
+
+
+
+
+>Cloning vector p2U6-CAG-Cas9-p2A-puro, complete sequence
+Sequence ID: MK318530.1 Length: 9989
+Range 1: 2533 to 2598
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2533  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  2592
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  2593  GACAAG  2598
+
+
+
+
+>Synthetic construct clone UAS-BoNT-A other-genetic sequence
+Sequence ID: KR260972.1 Length: 10099
+Range 1: 6667 to 6732
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6667  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  6726
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  6727  GACAAG  6732
+
+
+
+
+>Synthetic construct clone UAS-BoNT-G other-genetic sequence
+Sequence ID: KR260975.1 Length: 10081
+Range 1: 6649 to 6714
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6649  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  6708
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  6709  GACAAG  6714
+
+
+
+
+>Synthetic construct 3xFlag-CTR9 gene, partial cds
+Sequence ID: MZ018224.1 Length: 268
+Range 1: 138 to 203
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1    GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  138  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  197
+
+Query  61   GACAAG  66
+            ||||||
+Sbjct  198  GACAAG  203
+
+
+
+
+>Synthetic construct clone 98 single-chain variable fragment antibody gene, partial cds
+Sequence ID: MT635029.1 Length: 1566
+Range 1: 1501 to 1566
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1501  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  1560
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1561  GACAAG  1566
+
+
+
+
+>Vector pAAV9-tnnt2 Glo1 Kurt Prins, complete sequence
+Sequence ID: OP267555.1 Length: 4383
+Range 1: 827 to 892
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1    GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  827  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  886
+
+Query  61   GACAAG  66
+            ||||||
+Sbjct  887  GACAAG  892
+
+
+
+
+>Synthetic construct clone UAS-BoNT-B other-genetic sequence
+Sequence ID: KR260973.1 Length: 10360
+Range 1: 1409 to 1474
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1409  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  1468
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1469  GACAAG  1474
+
+
+
+
+>Synthetic construct clone 92 single-chain variable fragment antibody gene, partial cds
+Sequence ID: MT635025.1 Length: 1566
+Range 1: 1501 to 1566
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1501  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  1560
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1561  GACAAG  1566
+
+
+
+
+>Vector pENTR1A-3Flag-WFS1, complete sequence
+Sequence ID: OQ262950.1 Length: 5112
+Range 1: 505 to 570
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1    GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  505  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  564
+
+Query  61   GACAAG  66
+            ||||||
+Sbjct  565  GACAAG  570
+
+
+
+
+>Vector pAd/CMV/V5-DEST-3Flag-WFS1-P724L, complete sequence
+Sequence ID: OQ427861.1 Length: 37354
+Range 1: 1479 to 1544
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1479  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  1538
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1539  GACAAG  1544
+
+
+
+
+>Synthetic construct CatD_ZFN2 gene, complete cds
+Sequence ID: KY862008.1 Length: 1158
+Range 1: 4 to 69
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1   GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4   GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  63
+
+Query  61  GACAAG  66
+           ||||||
+Sbjct  64  GACAAG  69
+
+
+
+
+>Synthetic construct clone 97A3 anti-Abeta fibril single-chain variable fragment antibody gene, partial cds
+Sequence ID: MW202274.1 Length: 1566
+Range 1: 1501 to 1566
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1501  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  1560
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1561  GACAAG  1566
+
+
+
+
+>Vector pAd/CMV/V5-DEST-3Flag-WFS1-IRES2-mCherry, complete sequence
+Sequence ID: OQ427867.1 Length: 38674
+Range 1: 1479 to 1544
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1479  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  1538
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1539  GACAAG  1544
+
+
+
+
+>Eukaryotic synthetic construct gene for UBL4A synthetic protein, complete cds
+Sequence ID: LC773210.1 Length: 627
+Range 1: 4 to 69
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1   GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4   GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  63
+
+Query  61  GACAAG  66
+           ||||||
+Sbjct  64  GACAAG  69
+
+
+
+
+>Synthetic construct NLuc-3xFLAG gene, complete cds
+Sequence ID: PQ613858.1 Length: 669
+Range 1: 601 to 666
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1    GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  601  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  660
+
+Query  61   GACAAG  66
+            ||||||
+Sbjct  661  GACAAG  666
+
+
+
+
+>Synthetic construct clone WA2.7 WA2.7 Fc fusion gene, partial cds
+Sequence ID: OR094902.1 Length: 1191
+Range 1: 1126 to 1191
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1126  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  1185
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1186  GACAAG  1191
+
+
+
+
+>Synthetic construct clone UAS-BoNT-C other-genetic sequence
+Sequence ID: KR260974.1 Length: 10102
+Range 1: 6670 to 6735
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6670  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  6729
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  6730  GACAAG  6735
+
+
+
+
+>Synthetic construct clone 95 single-chain variable fragment antibody gene, partial cds
+Sequence ID: MT635027.1 Length: 1566
+Range 1: 1501 to 1566
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1501  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  1560
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1561  GACAAG  1566
+
+
+
+
+>Synthetic construct clone ATA1.459.3 anti-tau and anti-alpha synuclein scFv-Fc gene, partial cds
+Sequence ID: OR437342.1 Length: 1557
+Range 1: 1492 to 1557
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1492  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  1551
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1552  GACAAG  1557
+
+
+
+
+>Cloning vector pCIneo-3xFLAG-SLBP, complete sequence
+Sequence ID: MT966999.1 Length: 6411
+Range 1: 957 to 1022
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  957   GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  1016
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1017  GACAAG  1022
+
+
+
+
+>Synthetic construct clone 97 single-chain variable fragment antibody gene, partial cds
+Sequence ID: MT635028.1 Length: 1566
+Range 1: 1501 to 1566
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1501  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  1560
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1561  GACAAG  1566
+
+
+
+
+>Vector pENTR1A-3Flag-WFS1-IRES2-mCherry, complete sequence
+Sequence ID: OQ238874.1 Length: 6432
+Range 1: 505 to 570
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1    GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  505  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  564
+
+Query  61   GACAAG  66
+            ||||||
+Sbjct  565  GACAAG  570
+
+
+
+
+>Vector pENTR1A-3Flag-WFS1-P724L, complete sequence
+Sequence ID: OQ262952.1 Length: 5112
+Range 1: 505 to 570
+
+Score:122 bits(66), Expect:3e-24, 
+Identities:66/66(100%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1    GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  505  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  564
+
+Query  61   GACAAG  66
+            ||||||
+Sbjct  565  GACAAG  570
+
+
+
+
+>Synthetic construct clone pEnEOimsfGFP-stag-F3SG, complete sequence
+Sequence ID: OP013025.1 Length: 6364
+Range 1: 4747 to 4810
+
+Score:119 bits(64), Expect:4e-23, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4747  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  4806
+
+Query  61    GACA  64
+             ||||
+Sbjct  4807  GACA  4810
+
+
+
+
+>Synthetic construct clone pEnEOimsfGFP-tagRFP-T-F3SG, complete sequence
+Sequence ID: OP013024.1 Length: 6364
+Range 1: 4747 to 4810
+
+Score:119 bits(64), Expect:4e-23, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4747  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  4806
+
+Query  61    GACA  64
+             ||||
+Sbjct  4807  GACA  4810
+
+
+
+
+>Cloning vector pEnEOimCherryF3SGThsp, complete sequence
+Sequence ID: KF537341.1 Length: 5580
+Range 1: 3963 to 4026
+
+Score:119 bits(64), Expect:4e-23, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3963  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  4022
+
+Query  61    GACA  64
+             ||||
+Sbjct  4023  GACA  4026
+
+
+
+
+>Synthetic construct clone pEnEOimsfGFP-FRMVQ-F3SG, complete sequence
+Sequence ID: OP013018.1 Length: 6328
+Range 1: 4711 to 4774
+
+Score:119 bits(64), Expect:4e-23, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4711  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  4770
+
+Query  61    GACA  64
+             ||||
+Sbjct  4771  GACA  4774
+
+
+
+
+>Synthetic construct clone pEnEOimsfGFP-mOrange2-F3SG, complete sequence
+Sequence ID: OP013020.1 Length: 6340
+Range 1: 4723 to 4786
+
+Score:119 bits(64), Expect:4e-23, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4723  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  4782
+
+Query  61    GACA  64
+             ||||
+Sbjct  4783  GACA  4786
+
+
+
+
+>Cloning vector pEnEOmCherryF3SG, complete sequence
+Sequence ID: KF537342.1 Length: 4729
+Range 1: 3360 to 3423
+
+Score:119 bits(64), Expect:4e-23, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3360  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  3419
+
+Query  61    GACA  64
+             ||||
+Sbjct  3420  GACA  3423
+
+
+
+
+>Synthetic construct clone pEnEOimsfGFP-mScarlet-F3SG, complete sequence
+Sequence ID: OP013022.1 Length: 6328
+Range 1: 4711 to 4774
+
+Score:119 bits(64), Expect:4e-23, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4711  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  4770
+
+Query  61    GACA  64
+             ||||
+Sbjct  4771  GACA  4774
+
+
+
+
+>Synthetic construct clone pEnEOimsfGFP-mStrawberry-F3SG, complete sequence
+Sequence ID: OP013023.1 Length: 6340
+Range 1: 4723 to 4786
+
+Score:119 bits(64), Expect:4e-23, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4723  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  4782
+
+Query  61    GACA  64
+             ||||
+Sbjct  4783  GACA  4786
+
+
+
+
+>Synthetic construct clone pEnEOimsfGFP-mRuby3-F3SG, complete sequence
+Sequence ID: OP013021.1 Length: 6343
+Range 1: 4726 to 4789
+
+Score:119 bits(64), Expect:4e-23, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4726  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  4785
+
+Query  61    GACA  64
+             ||||
+Sbjct  4786  GACA  4789
+
+
+
+
+>Synthetic construct clone pEnEOimsfGFP-mCherry-F3SG, complete sequence
+Sequence ID: OP013019.1 Length: 6340
+Range 1: 4723 to 4786
+
+Score:119 bits(64), Expect:4e-23, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4723  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  4782
+
+Query  61    GACA  64
+             ||||
+Sbjct  4783  GACA  4786
+
+
+
+
+>Binary vector pMpGWB411 DNA, complete sequence
+Sequence ID: LC057564.1 Length: 11915
+Range 1: 2906 to 2971
+
+Score:117 bits(63), Expect:1e-22, 
+Identities:65/66(98%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             |||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||
+Sbjct  2906  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGACTACAAGGATGACGAT  2965
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  2966  GACAAG  2971
+
+
+
+
+>Synthetic construct strain RVA/Simian-lab/USA/SA11(NSP3-fmRuby-ncNSP3)/2021/G3P[2] nonstructural protein 3 gene, complete cds
+Sequence ID: OK491808.1 Length: 2888
+Range 1: 1037 to 1102
+
+Score:117 bits(63), Expect:1e-22, 
+Identities:65/66(98%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             |||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||
+Sbjct  1037  GACTACAAAGACCATGACGGTGATTATAAAGATCATGATATCGATTACAAGGATGACGAT  1096
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1097  GACAAG  1102
+
+
+
+
+>Synthetic construct strain RVA/Simian-lab/USA/SA11(NSP3-fUnaG-ncNSP3)/2021/G3P[2] nonstructural protein 3 gene, complete cds
+Sequence ID: OK491807.1 Length: 2594
+Range 1: 1037 to 1102
+
+Score:117 bits(63), Expect:1e-22, 
+Identities:65/66(98%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             |||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||
+Sbjct  1037  GACTACAAAGACCATGACGGTGATTATAAAGATCATGATATCGATTACAAGGATGACGAT  1096
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1097  GACAAG  1102
+
+
+
+
+>Synthetic construct NSP1-FL gene, complete cds
+Sequence ID: MW762698.1 Length: 2099
+Range 1: 1522 to 1587
+
+Score:117 bits(63), Expect:1e-22, 
+Identities:65/66(98%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             |||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||
+Sbjct  1522  GACTACAAAGACCATGACGGTGATTATAAAGATCATGATATCGATTACAAGGATGACGAT  1581
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1582  GACAAG  1587
+
+
+
+
+>Neurospora expression vector pCCG::C-Gly::3xFLAG, complete sequence
+Sequence ID: FJ457001.1 Length: 8049
+Range 1: 5043 to 5108
+
+Score:117 bits(63), Expect:1e-22, 
+Identities:65/66(98%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             |||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||
+Sbjct  5043  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGACTACAAGGATGACGAT  5102
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  5103  GACAAG  5108
+
+
+
+
+>Neurospora expression vector pCCG::C-3xFLAG, complete sequence
+Sequence ID: FJ456996.1 Length: 8019
+Range 1: 5013 to 5078
+
+Score:117 bits(63), Expect:1e-22, 
+Identities:65/66(98%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             |||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||
+Sbjct  5013  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGACTACAAGGATGACGAT  5072
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  5073  GACAAG  5078
+
+
+
+
+>Mutant Rotavirus A strain RVA/Pig-tc/USA/1975/OSU-NSP3-2A-3xFL-UnaG/G5P[7] NSP3-2A-3X-FL-UnaG gene, complete cds
+Sequence ID: PP112344.1 Length: 1627
+Range 1: 1031 to 1096
+
+Score:117 bits(63), Expect:1e-22, 
+Identities:65/66(98%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             |||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||
+Sbjct  1031  GACTACAAAGACCATGACGGTGATTATAAAGATCATGATATCGATTACAAGGATGACGAT  1090
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1091  GACAAG  1096
+
+
+
+
+>Synthetic construct NSP1-C54A-UG gene, complete cds
+Sequence ID: MW762703.1 Length: 2096
+Range 1: 1519 to 1584
+
+Score:117 bits(63), Expect:1e-22, 
+Identities:65/66(98%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             |||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||
+Sbjct  1519  GACTACAAAGACCATGACGGTGATTATAAAGATCATGATATCGATTACAAGGATGACGAT  1578
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1579  GACAAG  1584
+
+
+
+
+>Synthetic construct clone RVA/Labstr/USA/rSA11-NSP3-P2A-3xFlag-UnaG/2021/G3P[2] NSP3-P2A-3xFlag-UnaG-dupPH gene, complete cds
+Sequence ID: OR036744.1 Length: 1711
+Range 1: 1037 to 1102
+
+Score:117 bits(63), Expect:1e-22, 
+Identities:65/66(98%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             |||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||
+Sbjct  1037  GACTACAAAGACCATGACGGTGATTATAAAGATCATGATATCGATTACAAGGATGACGAT  1096
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1097  GACAAG  1102
+
+
+
+
+>Synthetic construct NSP3-P2A-3xFL-mRuby gene, complete cds
+Sequence ID: MK851037.1 Length: 1951
+Range 1: 1037 to 1102
+
+Score:117 bits(63), Expect:1e-22, 
+Identities:65/66(98%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             |||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||
+Sbjct  1037  GACTACAAAGACCATGACGGTGATTATAAAGATCATGATATCGATTACAAGGATGACGAT  1096
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1097  GACAAG  1102
+
+
+
+
+>Binary vector pMpGWB209 DNA, complete sequence
+Sequence ID: LC057488.1 Length: 10793
+Range 1: 2050 to 2115
+
+Score:117 bits(63), Expect:1e-22, 
+Identities:65/66(98%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             |||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||
+Sbjct  2050  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGACTACAAGGATGACGAT  2109
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  2110  GACAAG  2115
+
+
+
+
+>Synthetic construct NSP3-P2A-3xFL-BFP gene, complete cds
+Sequence ID: MK851039.1 Length: 1942
+Range 1: 1037 to 1102
+
+Score:117 bits(63), Expect:1e-22, 
+Identities:65/66(98%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             |||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||
+Sbjct  1037  GACTACAAAGACCATGACGGTGATTATAAAGATCATGATATCGATTACAAGGATGACGAT  1096
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1097  GACAAG  1102
+
+
+
+
+>Synthetic construct strain RVA/Simian-lab/USA/SA11(NSP3-ncnv)/2021/G3P[2] nonstructural protein 3 gene, complete cds
+Sequence ID: OK491806.1 Length: 2042
+Range 1: 1458 to 1523
+
+Score:117 bits(63), Expect:1e-22, 
+Identities:65/66(98%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             |||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||
+Sbjct  1458  GACTACAAAGACCATGACGGTGATTATAAAGATCATGATATCGATTACAAGGATGACGAT  1517
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1518  GACAAG  1523
+
+
+
+
+>Binary vector pMpGWB311 DNA, complete sequence
+Sequence ID: LC057527.1 Length: 13083
+Range 1: 2906 to 2971
+
+Score:117 bits(63), Expect:1e-22, 
+Identities:65/66(98%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             |||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||
+Sbjct  2906  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGACTACAAGGATGACGAT  2965
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  2966  GACAAG  2971
+
+
+
+
+>Synthetic construct NSP1-C63A-UG gene, complete cds
+Sequence ID: MW762706.1 Length: 2096
+Range 1: 1519 to 1584
+
+Score:117 bits(63), Expect:1e-22, 
+Identities:65/66(98%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             |||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||
+Sbjct  1519  GACTACAAAGACCATGACGGTGATTATAAAGATCATGATATCGATTACAAGGATGACGAT  1578
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1579  GACAAG  1584
+
+
+
+
+>Synthetic construct NSP1-C45A-UG gene, complete cds
+Sequence ID: MW762702.1 Length: 2096
+Range 1: 1519 to 1584
+
+Score:117 bits(63), Expect:1e-22, 
+Identities:65/66(98%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             |||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||
+Sbjct  1519  GACTACAAAGACCATGACGGTGATTATAAAGATCATGATATCGATTACAAGGATGACGAT  1578
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1579  GACAAG  1584
+
+
+
+
+>Synthetic construct NSP3-3xFL-mRuby-P2A-3xFL-UnaG gene, complete cds
+Sequence ID: MN184671.1 Length: 2437
+Range 1: 971 to 1036
+
+Score:117 bits(63), Expect:1e-22, 
+Identities:65/66(98%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             |||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||
+Sbjct  971   GACTACAAAGACCATGACGGTGATTATAAAGATCATGATATCGATTACAAGGATGACGAT  1030
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1031  GACAAG  1036
+
+
+
+
+Range 2: 1817 to 1882
+
+Score:117 bits(63), Expect:1e-22, 
+Identities:65/66(98%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             |||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||
+Sbjct  1817  GACTACAAAGACCATGACGGTGATTATAAAGATCATGATATCGATTACAAGGATGACGAT  1876
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1877  GACAAG  1882
+
+
+
+
+>Synthetic construct NSP1-C57A-UG gene, complete cds
+Sequence ID: MW762704.1 Length: 2096
+Range 1: 1519 to 1584
+
+Score:117 bits(63), Expect:1e-22, 
+Identities:65/66(98%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             |||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||
+Sbjct  1519  GACTACAAAGACCATGACGGTGATTATAAAGATCATGATATCGATTACAAGGATGACGAT  1578
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1579  GACAAG  1584
+
+
+
+
+>Synthetic construct isolate RVA/Simian-lab/USA/SA11(NSP3-P2A-3XFL-SARS-CoV2/S1/R1)/2020/G3P[2] NSP3-P2A-3xFL SARS CoV2/S1/R1 gene, complete cds
+Sequence ID: MW353715.1 Length: 2303
+Range 1: 1037 to 1102
+
+Score:117 bits(63), Expect:1e-22, 
+Identities:65/66(98%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             |||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||
+Sbjct  1037  GACTACAAAGACCATGACGGTGATTATAAAGATCATGATATCGATTACAAGGATGACGAT  1096
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1097  GACAAG  1102
+
+
+
+
+>Rhodopseudomonas palustris TIE-1 chromosome, complete genome
+Sequence ID: CP001096.1 Length: 5744041
+Range 1: 213165 to 213230
+
+Score:117 bits(63), Expect:1e-22, 
+Identities:65/66(98%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1       GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+               |||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||
+Sbjct  213165  GACTACAAAGACCATGACGGTGATTATAAAGATCATGATATCGATTACAAGGATGACGAT  213224
+
+Query  61      GACAAG  66
+               ||||||
+Sbjct  213225  GACAAG  213230
+
+
+
+
+>Cloning vector 3XFlag-SMXL6, complete sequence
+Sequence ID: MN728545.1 Length: 7307
+Range 1: 448 to 513
+
+Score:117 bits(63), Expect:1e-22, 
+Identities:65/66(98%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1    GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+            |||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||
+Sbjct  448  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGACTACAAGGATGACGAT  507
+
+Query  61   GACAAG  66
+            ||||||
+Sbjct  508  GACAAG  513
+
+
+
+
+>Synthetic construct clone RVA/Simian-lab/USA/SA11(NSP3-P2A-3XFL-OSU VP5*)/2020/G3P[2] NSP3-P2A-3XFL OSU VP5* gene, complete cds
+Sequence ID: MW072295.1 Length: 2830
+Range 1: 1037 to 1102
+
+Score:117 bits(63), Expect:1e-22, 
+Identities:65/66(98%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             |||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||
+Sbjct  1037  GACTACAAAGACCATGACGGTGATTATAAAGATCATGATATCGATTACAAGGATGACGAT  1096
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  1097  GACAAG  1102
+
+
+
+
+>Binary vector pMpGWB410 DNA, complete sequence
+Sequence ID: LC057563.1 Length: 12793
+Range 1: 3784 to 3849
+
+Score:117 bits(63), Expect:1e-22, 
+Identities:65/66(98%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             |||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||
+Sbjct  3784  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGACTACAAGGATGACGAT  3843
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  3844  GACAAG  3849
+
+
+
+
+>Binary vector pMpGWB309 DNA, complete sequence
+Sequence ID: LC057525.1 Length: 12227
+Range 1: 2050 to 2115
+
+Score:117 bits(63), Expect:1e-22, 
+Identities:65/66(98%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1     GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+             |||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||
+Sbjct  2050  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGACTACAAGGATGACGAT  2109
+
+Query  61    GACAAG  66
+             ||||||
+Sbjct  2110  GACAAG  2115
+
+
+
+
+>Cloning vector 3XFlag-SMXL6-no-EAR, complete sequence
+Sequence ID: MN780594.1 Length: 7289
+Range 1: 448 to 513
+
+Score:117 bits(63), Expect:1e-22, 
+Identities:65/66(98%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  1    GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGATTACAAGGATGACGAT  60
+            |||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||
+Sbjct  448  GACTACAAAGACCATGACGGTGATTATAAAGATCATGACATCGACTACAAGGATGACGAT  507
+
+Query  61   GACAAG  66
+            ||||||
+Sbjct  508  GACAAG  513
+
+
+
+
+		
+
+
